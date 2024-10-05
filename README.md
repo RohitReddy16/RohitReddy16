@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Rohit Reddy Pakhala</h1>
+ 
+## <h1 align="center">Hi 👋, I'm Rohit Reddy Pakhala</h1>
 <h3 align="center">Robotics and Automation Engineer | Controls | PLC | AI | Industrial Automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitreddy16&label=Profile%20views&color=0e75b6&style=flat" alt="rohitreddy16" /> </p>
