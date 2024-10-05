@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI**, **automation systems**, and **PLC programming**. I have hands-on experience in designing and implementing solutions for industrial automation, AGVs, AMRs, and mobile robots. Currently, I am completing my Master's in Robotics from the University of Maryland, actively seeking new opportunities to apply my skills in automation and controls engineering.
 
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pakhala-rohit-reddy"/></a>
-<a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu" /></a>
-<a href="https://github.com/RohitReddy16" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="rohitreddy16"/></a>
+<a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu"/></a>
 </p>
 ## 🚀 About Me
 
@@ -47,6 +44,9 @@ I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI*
 ![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white)
 ![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)
 
+## **OS**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ### **Robotics & Automation:**
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge&logo=gazebo&logoColor=white)
@@ -75,6 +75,7 @@ I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI*
 - **[UWB-based Smart Home Automation System](https://github.com/RohitReddy16/Smart-Home-Automation)**: Created a smart home system using UWB sensors for automated security and lighting control.
 - **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI integration to improve efficiency in manufacturing.
 
+
 ## 📜 Certifications
 
 - **Foundations of Robot Motion** – Northwestern University
@@ -87,11 +88,7 @@ I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI*
 - **Control Systems**: Developing advanced control algorithms for precise automation in industrial settings.
 - **ITSM**: Understanding the role of ITSM in shaping the future of automation and customer support.
 
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/pakhala-rohit-reddy/)
-- [GitHub](https://github.com/RohitReddy16)
-- [Portfolio](https://rohit-reddy-portfolio.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/RohitReddy16)
 
 ---
 
