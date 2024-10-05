@@ -24,19 +24,51 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 ## 🛠 Technical Skills
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_sim_logo.svg" alt="gazebo" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/products/simulink.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Simulink_Logo.png" alt="simulink" width="40" height="40"/> </a> 
-<a href="https://www.solidworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="solidworks" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="40" height="40"/> </a>
+## 🛠 Technical Skills
+
+### **Languages:**
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [Ladder Logic](https://www.allen-bradley.com/en-us/products/programmable-controllers/plc-programming-software.html)
+- [Structured Text](https://www.codesys.com/products/codesys-engineering/codesys-programming-system.html)
+- [Python](https://www.python.org/)
+- [C++](https://en.cppreference.com/w/)
+- [Java](https://www.java.com/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [MySQL](https://www.mysql.com/)
+- [Functional Block Diagram](https://en.wikipedia.org/wiki/Function_block_diagram)
+
+### **Automation Skills:**
+- [Allen Bradley PLCs](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley.html)
+- [RSLogix 5000](https://www.rockwellautomation.com/en-us/products/software/factorytalk/design/rslogix-5000.html)
+- [FactoryTalk View](https://www.rockwellautomation.com/en-us/products/software/factorytalk/operations/factorytalk-view.html)
+- [Cognex](https://www.cognex.com/)
+- [Variable Frequency Drives (VFDs)](https://en.wikipedia.org/wiki/Variable-frequency_drive)
+- [Codesys Visualization](https://www.codesys.com/products/codesys-engineering/codesys-visualization.html)
+- [HMI Design](https://en.wikipedia.org/wiki/Human%E2%80%93machine_interface)
+
+### **Tools:**
+- [Schematics](https://en.wikipedia.org/wiki/Schematic)
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- [Networks](https://en.wikipedia.org/wiki/Computer_network)
+- [SIMULINK](https://www.mathworks.com/products/simulink.html)
+- [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+- [P&ID](https://en.wikipedia.org/wiki/Piping_and_instrumentation_diagram)
+- [MS Office](https://www.microsoft.com/en-us/microsoft-365)
+- [Git](https://git-scm.com/)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+- [Docker](https://www.docker.com/)
+
+### **Robotics Skills:**
+- [Linux](https://www.linux.org/)
+- [Robot Operating System (ROS) 1 & 2](https://www.ros.org/)
+- [Gazebo](https://gazebosim.org/)
+- [RViz](http://wiki.ros.org/rviz)
+- [CoppeliaSim](https://www.coppeliarobotics.com/)
+- [OpenCV](https://opencv.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Arduino](https://www.arduino.cc/)
 
 ### **Programming & Scripting:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
