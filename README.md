@@ -24,48 +24,19 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 ## 🛠 Technical Skills
 
-### **Languages:**
-- [![MATLAB](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg)](https://www.mathworks.com/products/matlab.html)  
-- [![Ladder Logic](https://raw.githubusercontent.com/devicons/devicon/master/icons/electronics/electronics-original.svg)](https://www.allen-bradley.com/en-us/products/programmable-controllers/plc-programming-software.html)  
-- [![Structured Text](https://raw.githubusercontent.com/devicons/devicon/master/icons/electronics/electronics-original.svg)](https://www.codesys.com/products/codesys-engineering/codesys-programming-system.html)  
-- [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)  
-- [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://en.cppreference.com/w/)  
-- [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)  
-- [![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
-- [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)  
-- [![Functional Block Diagram](https://raw.githubusercontent.com/devicons/devicon/master/icons/diagram/diagram-original.svg)](https://en.wikipedia.org/wiki/Function_block_diagram)
-
-### **Automation Skills:**
-- [![Allen Bradley PLCs](https://raw.githubusercontent.com/devicons/devicon/master/icons/plc/plc-original.svg)](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley.html)  
-- [![RSLogix 5000](https://raw.githubusercontent.com/devicons/devicon/master/icons/rslogix/rslogix-original.svg)](https://www.rockwellautomation.com/en-us/products/software/factorytalk/design/rslogix-5000.html)  
-- [![FactoryTalk View](https://raw.githubusercontent.com/devicons/devicon/master/icons/factorytalk/factorytalk-original.svg)](https://www.rockwellautomation.com/en-us/products/software/factorytalk/operations/factorytalk-view.html)  
-- [![Cognex](https://raw.githubusercontent.com/devicons/devicon/master/icons/cognex/cognex-original.svg)](https://www.cognex.com/)  
-- [![VFDs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vfds/vfds-original.svg)](https://en.wikipedia.org/wiki/Variable-frequency_drive)  
-- [![Codesys Visualization](https://raw.githubusercontent.com/devicons/devicon/master/icons/codesys/codesys-original.svg)](https://www.codesys.com/products/codesys-engineering/codesys-visualization.html)  
-- [![HMI](https://raw.githubusercontent.com/devicons/devicon/master/icons/hmi/hmi-original.svg)](https://en.wikipedia.org/wiki/Human%E2%80%93machine_interface)
-
-### **Tools:**
-- [![Schematics](https://raw.githubusercontent.com/devicons/devicon/master/icons/schematics/schematics-original.svg)](https://en.wikipedia.org/wiki/Schematic)  
-- [![AutoCAD](https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg)](https://www.autodesk.com/products/autocad/overview)  
-- [![SIMULINK](https://raw.githubusercontent.com/devicons/devicon/master/icons/simulink/simulink-original.svg)](https://www.mathworks.com/products/simulink.html)  
-- [![TCP/IP](https://raw.githubusercontent.com/devicons/devicon/master/icons/network/network-original.svg)](https://en.wikipedia.org/wiki/Internet_protocol_suite)  
-- [![P&ID](https://raw.githubusercontent.com/devicons/devicon/master/icons/pid/pid-original.svg)](https://en.wikipedia.org/wiki/Piping_and_instrumentation_diagram)  
-- [![MS Office](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg)](https://www.microsoft.com/en-us/microsoft-365)  
-- [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)  
-- [![Jira](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg)](https://www.atlassian.com/software/jira)  
-- [![Agile](https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg)](https://en.wikipedia.org/wiki/Agile_software_development)  
-- [![Power BI](https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg)](https://powerbi.microsoft.com/en-us/)  
-- [![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://www.docker.com/)
-
-### **Robotics Skills:**
-- [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)  
-- [![ROS](https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg)](https://www.ros.org/)  
-- [![Gazebo](https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg)](https://gazebosim.org/)  
-- [![RViz](https://raw.githubusercontent.com/devicons/devicon/master/icons/rviz/rviz-original.svg)](http://wiki.ros.org/rviz)  
-- [![CoppeliaSim](https://raw.githubusercontent.com/devicons/devicon/master/icons/coppeliasim/coppeliasim-original.svg)](https://www.coppeliarobotics.com/)  
-- [![OpenCV](https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg)](https://opencv.org/)  
-- [![TensorFlow](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)](https://www.tensorflow.org/)  
-- [![Arduino](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg)](https://www.arduino.cc/)
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://gazebosim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_sim_logo.svg" alt="gazebo" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/products/simulink.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Simulink_Logo.png" alt="simulink" width="40" height="40"/> </a> 
+<a href="https://www.solidworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="solidworks" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="40" height="40"/> </a>
 
 ### **Programming & Scripting:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
