@@ -20,9 +20,12 @@ I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI*
 
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]" alt="pakhala-rohit-reddy" height="30" width="40" /></a>
-<a href="https://github.com/RohitReddy16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rohitreddy16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pakhala-rohit-reddy"/></a>
+<a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu" /></a>
+<a href="https://github.com/RohitReddy16" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="rohitreddy16"/></a>
+</p>
 ## 🚀 About Me
 
 - 🎓 **Master of Engineering in Robotics** from the **University of Maryland** (GPA: 3.84/4.0)
