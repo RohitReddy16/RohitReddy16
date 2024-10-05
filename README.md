@@ -15,82 +15,76 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-## <h1 align="center">Hi 👋, I'm Rohit Reddy Pakhala</h1>
-<h3 align="center">Robotics and Automation Engineer | Controls | PLC | AI | Industrial Automation</h3>
+# Hi there, I'm Rohit Reddy Pakhala! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitreddy16&label=Profile%20views&color=0e75b6&style=flat" alt="rohitreddy16" /> </p>
+I'm a **Robotics and Automation Engineer** with expertise in **PLC programming**, **robotics**, **AI**, and **automation systems**. I have hands-on experience in designing and implementing solutions for industrial automation, AGVs, AMRs, and mobile robots. Currently, I am completing my Master's in Robotics from the University of Maryland, actively seeking new opportunities to apply my skills in automation and controls engineering.
 
-- 🔭 I’m currently working as an **AI Intern** at [Robro Systems](https://robro-systems.com)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced Control Systems, AI in Automation, and Vision Systems**
+- 🎓 **Master of Engineering in Robotics** from the **University of Maryland** (GPA: 3.84/4.0)
+- 💼 Experienced with **Allen Bradley PLCs**, **ROS**, **Python**, **C++**, and **MATLAB**.
+- 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
+- 🔭 Currently working on projects involving **machine vision systems** and **AI-based automation** at **Robro Systems**.
+- 💡 Open to roles in **Controls Engineering**, **Automation Systems**, and **Robotics**.
 
-- 👯 I’m looking to collaborate on **Robotics, Automation, and Control System projects**
+## 🛠 Technical Skills
 
-- 💬 Ask me about **Robotics, PLC Programming, Python, ROS, Automation Systems**
+### **Programming & Scripting:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white)
+![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)
 
-- 📫 How to reach me **rpakhala@umd.edu**
+### **Robotics & Automation:**
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge&logo=gazebo&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-9C27B0?style=for-the-badge&logo=rviz&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0A0A0A?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-- ⚡ Fun fact **I love integrating machine vision and AI in industrial automation!**
+### **Tools & Technologies:**
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF8C00?style=for-the-badge&logo=solidworks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SIMULINK](https://img.shields.io/badge/SIMULINK-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logoColor=white)
+![P&ID](https://img.shields.io/badge/P%26ID-000000?style=for-the-badge&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pakhala-rohit-reddy" height="30" width="40" /></a>
-<a href="https://github.com/RohitReddy16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rohitreddy16" height="30" width="40" /></a>
-</p>
+## 🏗 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://ros.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://gazebosim.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gazebo_sim_logo.svg" alt="gazebo" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/products/simulink.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Simulink_Logo.png" alt="simulink" width="40" height="40"/> </a> 
-<a href="https://www.solidworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="solidworks" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="40" height="40"/> </a>
-</p>
+- **[Autonomous Mobile Robot](https://github.com/RohitReddy16/Autonomous-Mobile-Robot)**: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance, improving operational efficiency by 35%.
+- **[Path Planning Algorithms](https://github.com/RohitReddy16/Project5_Improved-RRT)**: Implemented A\*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
+- **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system for AGVs using RF and UWB technologies, optimizing safety in industrial environments.
+- **[UWB-based Smart Home Automation System](https://github.com/RohitReddy16/Smart-Home-Automation)**: Created a smart home system using UWB sensors for automated security and lighting control.
+- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI integration to improve efficiency in manufacturing.
 
-<h3 align="left">Projects:</h3>
-
-- **[Autonomous Mobile Robot](https://github.com/RohitReddy16/Autonomous-Mobile-Robot)**: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance.
-
-- **[Path Planning Algorithms](https://github.com/RohitReddy16/Project5_Improved-RRT)**: Implemented and visualized A\*, Dijkstra, and RRT algorithms for path planning with a TurtleBot3 for real-time navigation.
-
-- **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system using RF and UWB technologies for industrial safety.
-
-- **[UWB-based Smart Home Automation System](https://github.com/RohitReddy16/Smart-Home-Automation)**: Created an automated smart home system using UWB sensors for security and lighting control.
-
-- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed an object segregation system using Ladder Logic and HMI integration for manufacturing efficiency.
-
-<h3 align="left">Education:</h3>
-
-- **Master of Engineering in Robotics**  
-  University of Maryland, College Park (2022 – 2024)  
-  GPA: 3.84/4.0  
-  Relevant Coursework: Perception & Planning, Rehabilitation Robotics, Reinforcement Learning, Modeling, Controls, Programming
-
-- **Bachelor of Engineering in Electronics and Instrumentation**  
-  Amrita Vishwa Vidyapeetham (2017 – 2021)  
-  GPA: 7.47/10  
-  Relevant Coursework: Control Systems, Industrial Automation, Process Control, Data Acquisition and Communication
-
-<h3 align="left">Certifications:</h3>
+## 📜 Certifications
 
 - **Foundations of Robot Motion** – Northwestern University
 - **Computational Motion Planning** – University of Pennsylvania
 - **Aerial Robotics** – University of Pennsylvania
 
-<h3 align="left">Achievements:</h3>
+## 🌱 Current Interests
 
-- Reduced deployment time by 30% and manual testing by 40% through Java-based test automation libraries during my tenure at IQVIA.
-- Enhanced AV systems at UMD by reducing urgent service requests by 40% as a Manager (Graduate Assistant).
-- Published research papers on advanced robotics topics like Expanding Path RRT and wearable rehabilitation robotics.
+- **Robotics in Manufacturing**: Exploring the integration of machine vision and AI into industrial robotics.
+- **Control Systems**: Developing advanced control algorithms for precise automation in industrial settings.
+- **ITSM**: Understanding the role of ITSM in shaping the future of automation and customer support.
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rohitreddy16&show_icons=true&locale=en" alt="rohitreddy16" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitreddy16&" alt="rohitreddy16" /></p>
+## 🔗 Connect with Me
 
+- [LinkedIn](https://www.linkedin.com/in/pakhala-rohit-reddy/)
+- [GitHub](https://github.com/RohitReddy16)
+- [Portfolio](https://rohit-reddy-portfolio.com)
+
+---
+
+"Engineering the future of automation and robotics."
