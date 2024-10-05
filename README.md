@@ -74,8 +74,6 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 - **Robotics in Manufacturing**: Exploring the integration of machine vision and AI into industrial robotics.
 - **Control Systems**: Developing advanced control algorithms for precise automation in industrial settings.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/RohitReddy16)
-
 ---
 
 "Engineering the future of automation and robotics."
