@@ -15,10 +15,10 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 - 🎓 **Master of Engineering in Robotics** from the **University of Maryland**
 - 🎓 **Bachelor of Engineering in Electronincs and Instruemtnation**
-- 💼 Experienced with **Allen Bradley PLCs**, **ROS**, **Python**, **C++**, and **MATLAB**.
+- 💼 Experienced with **ROS**, **Python**, **C++**, and **MATLAB**.
 - 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
-- 🔭 Currently working on projects involving **machine vision systems** and **AI-based automation** at **Robro Systems**.
-- 💡 Open to roles in **Controls Engineering**, **Automation Systems**, and **Robotics**.
+- 🔭 Currently working on projects involving **System Integration** and **AI-based automation**.
+- ⚡ Fun fact **I am funny**
 
 ## 🛠 Technical Skills
 
@@ -62,7 +62,25 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 - **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system for AGVs using RF and UWB technologies, optimizing safety in industrial environments.
 - **[UWB-based Smart Home Automation System](https://github.com/RohitReddy16/Smart-Home-Automation)**: Created a smart home system using UWB sensors for automated security and lighting control.
 - **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI integration to improve efficiency in manufacturing.
+<h3 align="left">Projects:</h3>
 
+<a href="https://github.com/RohitReddy16/Autonomous-Mobile-Robot" target="_blank">
+  <img align="left" src="https://media.giphy.com/media/3oz8xEdR29vuwdoLxC/giphy.gif" alt="Autonomous Mobile Robot" width="300" height="180"/>
+</a>
+<strong>Autonomous Mobile Robot</strong>: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance, resulting in a 35% increase in operational efficiency across three testing environments.
+
+<br/><br/><br/><br/><br/><br/>
+
+<a href="https://github.com/RohitReddy16/Project5_Improved-RRT" target="_blank">
+  <img align="left" src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Path Planning Algorithms" width="300" height="180"/>
+</a>
+<strong>Path Planning Algorithms</strong>: Implemented and visualized A*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
+  
+<br/><br/><br/><br/><br/><br/>
+
+<a href="https://github.com/RohitReddy16/Collision-Avoidance" target="_blank">
+  <img align="left" src="https://media.giphy.com/media/l0MYKzRXUHDHwWPNq/giphy.gif" alt="Collision Avoidance" width="300" height="180"/>
+</a>
 
 ## 📜 Certifications
 
@@ -74,7 +92,6 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 - **Robotics in Manufacturing**: Exploring the integration of machine vision and AI into industrial robotics.
 - **Control Systems**: Developing advanced control algorithms for precise automation in industrial settings.
-- **ITSM**: Understanding the role of ITSM in shaping the future of automation and customer support.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/RohitReddy16)
 
