@@ -1,7 +1,7 @@
 
-[![MasterHead](github_banner_1.png)
+[![MasterHead](github_banner_2.png)
 
-# Hi there, I'm Rohit Reddy Pakhala! 👋
+# Hi 👋, I'm Rohit Reddy Pakhala! 
 
 
 <p align="left">
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI**, **automation systems**, and **PLC programming**. I have hands-on experience in designing and implementing solutions for industrial automation, AGVs, AMRs, and mobile robots. Currently, I am completing my Master's in Robotics from the University of Maryland, actively seeking new opportunities to apply my skills in automation and controls engineering.
+I'm a passionate **Robotics, Automation, and Control Engineer** with expertise in **Robotics**, **AI**, **Automation Systems**, and **Control Systems**.
 
-- 🎓 **Master of Engineering in Robotics** from the **University of Maryland** (GPA: 3.84/4.0)
+- 🎓 **Master of Engineering in Robotics** from the **University of Maryland**
 - 🎓 **Bachelor of Engineering in Electronincs and Instruemtnation**
 - 💼 Experienced with **Allen Bradley PLCs**, **ROS**, **Python**, **C++**, and **MATLAB**.
 - 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
