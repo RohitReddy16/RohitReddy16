@@ -1,9 +1,6 @@
 
-<p align=”center”>
+[![MasterHead](github_banner_1.png)
 
-<img width=”200" height=”200" src=”github_banner_1.png" alt=”my banner”>
-
-</p>
 # Hi there, I'm Rohit Reddy Pakhala! 👋
 
 
@@ -11,6 +8,7 @@
 <a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pakhala-rohit-reddy"/></a>
 <a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu"/></a>
 </p>
+
 ## 🚀 About Me
 
 I'm a **Robotics and Automation Engineer** with expertise in **robotics**, **AI**, **automation systems**, and **PLC programming**. I have hands-on experience in designing and implementing solutions for industrial automation, AGVs, AMRs, and mobile robots. Currently, I am completing my Master's in Robotics from the University of Maryland, actively seeking new opportunities to apply my skills in automation and controls engineering.
