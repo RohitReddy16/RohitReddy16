@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitreddy16&label=Profile%20views&color=0e75b6&style=flat" alt="rohitreddy16" /> </p>
 # Hi there, I'm Rohit Reddy Pakhala! 👋
 
 I'm a **Robotics and Automation Engineer** with expertise in **PLC programming**, **robotics**, **AI**, and **automation systems**. I have hands-on experience in designing and implementing solutions for industrial automation, AGVs, AMRs, and mobile robots. Currently, I am completing my Master's in Robotics from the University of Maryland, actively seeking new opportunities to apply my skills in automation and controls engineering.
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pakhala-rohit-reddy" height="30" width="40" /></a>
+<a href="https://github.com/RohitReddy16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="rohitreddy16" height="30" width="40" /></a>
 ## 🚀 About Me
 
 - 🎓 **Master of Engineering in Robotics** from the **University of Maryland** (GPA: 3.84/4.0)
+- 🎓 **Bachelor of Engineering in Electronincs and Instruemtnation**
 - 💼 Experienced with **Allen Bradley PLCs**, **ROS**, **Python**, **C++**, and **MATLAB**.
 - 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
 - 🔭 Currently working on projects involving **machine vision systems** and **AI-based automation** at **Robro Systems**.
