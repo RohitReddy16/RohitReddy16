@@ -32,6 +32,12 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 ![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white)
 ![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)
 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+
 ## **OS**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -61,26 +67,7 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 - **[Path Planning Algorithms](https://github.com/RohitReddy16/Project5_Improved-RRT)**: Implemented A\*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
 - **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system for AGVs using RF and UWB technologies, optimizing safety in industrial environments.
 - **[UWB-based Smart Home Automation System](https://github.com/RohitReddy16/Smart-Home-Automation)**: Created a smart home system using UWB sensors for automated security and lighting control.
-- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI integration to improve efficiency in manufacturing.
-<h3 align="left">Projects:</h3>
-
-<a href="https://github.com/RohitReddy16/Autonomous-Mobile-Robot" target="_blank">
-  <img align="left" src="https://media.giphy.com/media/3oz8xEdR29vuwdoLxC/giphy.gif" alt="Autonomous Mobile Robot" width="300" height="180"/>
-</a>
-<strong>Autonomous Mobile Robot</strong>: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance, resulting in a 35% increase in operational efficiency across three testing environments.
-
-<br/><br/><br/><br/><br/><br/>
-
-<a href="https://github.com/RohitReddy16/Project5_Improved-RRT" target="_blank">
-  <img align="left" src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" alt="Path Planning Algorithms" width="300" height="180"/>
-</a>
-<strong>Path Planning Algorithms</strong>: Implemented and visualized A*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
-  
-<br/><br/><br/><br/><br/><br/>
-
-<a href="https://github.com/RohitReddy16/Collision-Avoidance" target="_blank">
-  <img align="left" src="https://media.giphy.com/media/l0MYKzRXUHDHwWPNq/giphy.gif" alt="Collision Avoidance" width="300" height="180"/>
-</a>
+- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI 
 
 ## 📜 Certifications
 
