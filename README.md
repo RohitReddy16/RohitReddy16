@@ -1,5 +1,5 @@
 
-[![MasterHead](github_banner_2.png)
+![MasterHead](github_banner_2.png)
 
 # Hi 👋, I'm Rohit Reddy Pakhala! 
 
