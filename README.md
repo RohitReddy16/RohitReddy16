@@ -27,7 +27,7 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/products/codesys-engineering/codesys-programming-system.html)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Functional Block Diagram](https://img.shields.io/badge/Functional%20Block%20Diagram-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Function_block_diagram)
@@ -49,22 +49,28 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [![Studio 5000](https://img.shields.io/badge/RSLogix%205000-000000?style=for-the-badge&logoColor=white)](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designsuite/studio-5000.html)
 [![Codesys](https://img.shields.io/badge/Codesys%20Visualization-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/)
 [![FactoryTalk View](https://img.shields.io/badge/FactoryTalk%20View-000000?style=for-the-badge&logoColor=white)](https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/view/factorytalk-view-site-edition.html)
-[![Cognex](https://img.shields.io/badge/Cognex-FFDB00?style=for-the-badge&logoColor=black)(https://www.cognex.com/)]
+[![Cognex](https://img.shields.io/badge/Cognex-FFDB00?style=for-the-badge&logoColor=black)](https://www.cognex.com/)
 [![Variable Frequency Drives (VFDs)](https://img.shields.io/badge/VFDs-000000?style=for-the-badge&logoColor=white)
 [![HMI](https://img.shields.io/badge/HMI%20Design-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/products/codesys-visualization/hmi.html)
+[![Allen Bradley PLCs](https://img.shields.io/badge/Allen%20Bradley-FF0000?style=for-the-badge&logoColor=white)](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley.html)
 
 ### **Tools & Technologies:**
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription#overview)
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-FF8C00?style=for-the-badge&logo=solidworks&logoColor=white)](https://my.solidworks.com/)
 [![SIMULINK](https://img.shields.io/badge/SIMULINK-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![Schematics](https://img.shields.io/badge/Schematics-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Schematic)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 [![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logoColor=white)](https://www.rtautomation.com/technologies/modbus-tcpip/?srsltid=AfmBOooRhiL3tCB7g36H2fap-DlzOkVcLG2M9HvxH4VIyedkkqB-4P4-)
 [![P&ID](https://img.shields.io/badge/P%26ID-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Piping_and_instrumentation_diagram)
- 
+[![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/doc/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Agile_software_development)
+### **Robotics Skills:**
+
 
 ## 📜 Certifications
 
