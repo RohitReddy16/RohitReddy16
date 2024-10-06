@@ -30,10 +30,14 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Functional Block Diagram](https://img.shields.io/badge/Functional%20Block%20Diagram-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Function_block_diagram)
 
-### **OS**
+### **OS & IDE**
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/download/desktop)
-
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![COLAB](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.google/)
+[![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom-editor.cc/)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://anaconda.org/)
 ### **Robotics Skills:**
 [![ROS 1 & 2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge&logo=gazebo&logoColor=white)](https://gazebosim.org/home)
