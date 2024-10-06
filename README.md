@@ -83,5 +83,9 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 - **Computational Motion Planning** – University of Pennsylvania
 - **Aerial Robotics** – University of Pennsylvania
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitreddy16&show_icons=true&locale=en&layout=compact" alt="rohitreddy16" />
+</p>
+
 
 "Engineering the future of automation and robotics."
