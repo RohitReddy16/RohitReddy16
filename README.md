@@ -26,14 +26,14 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 ### **Programming & Scripting:**
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white ](https://en.wikipedia.org/wiki/Ladder_logic))
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://www.python.org/)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)(https://en.cppreference.com/w/)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)(https://www.java.com/)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)(https://en.wikipedia.org/wiki/C_(programming_language))
-![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)(https://www.codesys.com/products/codesys-engineering/codesys-programming-system.html)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)(https://www.mysql.com/)
-![Functional Block Diagram](https://img.shields.io/badge/Functional%20Block%20Diagram-000000?style=for-the-badge&logoColor=white)(https://en.wikipedia.org/wiki/Function_block_diagram)
+[![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Ladder_logic))
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Structured Text](https://img.shields.io/badge/Structured%20Text-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/products/codesys-engineering/codesys-programming-system.html)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Functional Block Diagram](https://img.shields.io/badge/Functional%20Block%20Diagram-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Function_block_diagram)
 
 ### **OS**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)(https://www.microsoft.com/en-us/windows)
