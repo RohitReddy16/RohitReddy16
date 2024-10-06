@@ -50,7 +50,7 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [![Codesys](https://img.shields.io/badge/Codesys%20Visualization-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/)
 [![FactoryTalk View](https://img.shields.io/badge/FactoryTalk%20View-000000?style=for-the-badge&logoColor=white)](https://www.rockwellautomation.com/en-us/products/software/factorytalk/operationsuite/view/factorytalk-view-site-edition.html)
 [![Cognex](https://img.shields.io/badge/Cognex-FFDB00?style=for-the-badge&logoColor=black)](https://www.cognex.com/)
-[![Variable Frequency Drives (VFDs)](https://img.shields.io/badge/VFDs-000000?style=for-the-badge&logoColor=white)
+![Variable Frequency Drives (VFDs)](https://img.shields.io/badge/VFDs-000000?style=for-the-badge&logoColor=white)
 [![HMI](https://img.shields.io/badge/HMI%20Design-000000?style=for-the-badge&logoColor=white)](https://www.codesys.com/products/codesys-visualization/hmi.html)
 [![Allen Bradley PLCs](https://img.shields.io/badge/Allen%20Bradley-FF0000?style=for-the-badge&logoColor=white)](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley.html)
 
@@ -69,8 +69,14 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Agile_software_development)
-### **Robotics Skills:**
 
+
+## 🏗 Projects
+
+- **[Autonomous Mobile Robot](https://github.com/RohitReddy16/Autonomous-Mobile-Robot)**: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance, improving operational efficiency by 35%.
+- **[Path Planning Algorithms](https://github.com/RohitReddy16/Project5_Improved-RRT)**: Implemented A\*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
+- **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system for AGVs using RF and UWB technologies, optimizing safety in industrial environments.
+- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI
 
 ## 📜 Certifications
 
