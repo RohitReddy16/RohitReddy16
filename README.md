@@ -13,9 +13,9 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 
 - 🎓 **Master of Engineering in Robotics** from the **University of Maryland**
 - 🎓 **Bachelor of Engineering in Electronincs and Instruemtnation**
-- 💼 Experienced with **ROS**, **Python**, **C++**, and **MATLAB**.
+- 🤖 Fascinated by the intersection of technology and practical applications in robotics.
 - 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
-- 🔭 Currently working on projects involving **System Integration** and **AI-based automation**.
+- 🍳 Enthusiast in the kitchen, always experimenting with new recipes and flavors.
 - ⚡ Fun fact **I am funny**
 
 ## 🛠 Technical Skills
