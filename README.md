@@ -6,8 +6,6 @@
 <a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitreddy16&label=Profile%20views&color=0e75b6&style=flat" alt="rohitreddy16" /> </p>
-
 ## 🚀 About Me
 
 I'm a passionate **Robotics, Automation, and Control Engineer** with expertise in **Robotics**, **AI**, **Automation Systems**, and **Control Systems**.
