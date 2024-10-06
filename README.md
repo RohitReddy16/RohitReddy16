@@ -1,7 +1,7 @@
 
 ![MasterHead](github_banner_3.png)
 
-<p align="centre">
+<p align="center">
 <a href="https://linkedin.com/in/pakhala-rohit-reddy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pakhala-rohit-reddy"/></a>
 <a href="mailto:rpakhala@umd.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rpakhala@umd.edu"/></a>
 </p>
