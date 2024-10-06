@@ -84,6 +84,5 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 - **Computational Motion Planning** – University of Pennsylvania
 - **Aerial Robotics** – University of Pennsylvania
 
---->
 
 "Engineering the future of automation and robotics."
