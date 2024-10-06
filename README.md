@@ -25,8 +25,8 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 ## 🛠 Technical Skills
 
 ### **Programming & Scripting:**
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)(https://www.mathworks.com/products/matlab.html)
-![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white (https://en.wikipedia.org/wiki/Ladder_logic))
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Ladder Logic](https://img.shields.io/badge/Ladder%20Logic-000000?style=for-the-badge&logoColor=white ](https://en.wikipedia.org/wiki/Ladder_logic))
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)(https://www.python.org/)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)(https://en.cppreference.com/w/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)(https://www.java.com/)
