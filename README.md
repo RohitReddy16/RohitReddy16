@@ -86,7 +86,7 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [<img src="rrt.gif" width="30%"></img>](https://github.com/RohitReddy16/Project5_Improved-RRT-)
 [<img src="roundabour_faliure_inaccurate_demo.gif" width="30%"></img>](https://github.com/RohitReddy16/Lane-Changing-using-Deep-Reinforcement-Learning)
 [<img src="AMR.png" width="30%"></img>](https://github.com/RohitReddy16/Autonomous-Mobile-Robot)
-[<img src="basic_sim (1)" width="30%"></img>](https://github.com/RohitReddy16/Manipulative-Wheeled-Robot-for-Hospitality-Industry)
+[<img src="basic_sim (1).gif" width="30%"></img>](https://github.com/RohitReddy16/Manipulative-Wheeled-Robot-for-Hospitality-Industry)
 [<img src="a_star.gif" width="30%"></img>](https://github.com/RohitReddy16/A-star-algorithm)
 [<img src="Circles.jpg" width="30%"></img>](https://github.com/RohitReddy16/Object-detection-and-Counting)
 [<img src="Dijkstra.gif" width="30%"></img>](https://github.com/RohitReddy16/Dijkstra-Algorithm-for-Path-Planning-of-point-robot)
