@@ -72,15 +72,8 @@ I'm a passionate **Robotics, Automation, and Control Engineer** with expertise i
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Agile_software_development)
 
-
-## 🏗 Projects
-
-- **[Autonomous Mobile Robot](https://github.com/RohitReddy16/Autonomous-Mobile-Robot)**: Developed an AGV using Arduino and sensor integration for Bluetooth control and obstacle avoidance, improving operational efficiency by 35%.
-- **[Path Planning Algorithms](https://github.com/RohitReddy16/Project5_Improved-RRT)**: Implemented A\*, Dijkstra, and RRT algorithms for path planning, integrated with a TurtleBot3 for real-time obstacle-free navigation using ROS.
-- **[RF/UWB-based Collision Avoidance System](https://github.com/RohitReddy16/Collision-Avoidance)**: Designed a collision avoidance system for AGVs using RF and UWB technologies, optimizing safety in industrial environments.
-- **[PLC-based Industrial Manufacturing Automation](https://github.com/RohitReddy16/PLC-Object-Segregation)**: Programmed a software model for object segregation using Ladder Logic and HMI
-
 ## :clamp: &nbsp; Projects
+
 [<img src="PLC.png" width="30%"></img>](https://github.com/RohitReddy16/PLC-Object-Segregation)
 [<img src="marker.gif" width="30%"></img>](https://github.com/RohitReddy16/Fiducial-Marker-Search-Robot)
 [<img src="rrt.gif" width="30%"></img>](https://github.com/RohitReddy16/Project5_Improved-RRT-)
