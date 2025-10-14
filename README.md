@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm Rohit Reddy Pakhala, a Robotics & Systems Integration Engineer based in Fort Wayne, IN, passionate about building, integrating, and deploying intelligent automation systems that solve real-world problems. My professional journey spans robotics, industrial automation, controls engineering, and software testing, giving me a strong foundation in both hardware and software integration.
+I'm Rohit Reddy Pakhala, a Robotics & Systems Integration Engineer based in Fort Wayne, IN, passionate about building, integrating, and deploying intelligent automation systems that solve real-world problems. My professional journey spans robotics, industrial automation, controls, and software testing, giving me a strong foundation in both hardware and software integration.
 
 - **Systems Integration Engineer** at **OTTO Motors by Rockwell Automation**
 - **Robotics Field Solutions Engineer** at **ATI Motors Inc**
