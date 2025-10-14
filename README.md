@@ -11,11 +11,12 @@
 
 I'm a passionate **Robotics, Automation, and Control Engineer** with expertise in **Robotics**, **AI**, **Automation Systems**, and **Control Systems**.
 
+- **Systems Integration Engineer** at **OTTO Motors by Rockwell Automation**
+- **Robotics Field Solutions Engineer** at **ATI Motors Inc**
 - 🎓 **Master of Engineering in Robotics** from the **University of Maryland**
 - 🤖 Fascinated by the intersection of technology and practical applications in robotics.
-- 🌱 Passionate about **robotics**, **automation**, **industrial systems**, and **AI integration**.
 - 🍳 Enthusiast in the kitchen, always experimenting with new recipes and flavors.
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny ;)**
 
 ## 🛠 Technical Skills
 
